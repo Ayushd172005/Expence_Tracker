@@ -68,3 +68,12 @@ li button {
   padding: 2px 6px;
   cursor: pointer;
 }
+
+.watermark {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+  color: #666;
+  opacity: 0.7;
+  user-select: none;
+}
